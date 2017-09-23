@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+.Image {
+	width: 40%;
+	float: left;
+}
+
+.Text {
+	width: 60%;
+	float: right;
+}
+
+header {
+	text-align: left;
+    margin-bottom: 0px;
+    font-size: 36px;
+    line-height: 40px;
+    margin-top: 0px;
+    font-family: 'Average', serif;
+}
+
+.sub {
+	color: #a3865b;
+	text-transform: uppercase;
+	margin-top: 0px;
+	line-height:30px;
+}
